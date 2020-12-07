@@ -1,7 +1,7 @@
-# Autor: Laura Carrasco 
-# Date: oct 9, 2020
-# UV
-# helloworld.py
 print ("hello world python")
 print ("hello universe")
-print ("welcome to python")
+print ("welcome to python !!") 
+# Author: Laura Carrasco
+# Date: oct 3, 2020 
+# Universidad Veracruzana 
+# Helloworld.py

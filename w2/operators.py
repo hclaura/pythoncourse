@@ -1,22 +1,20 @@
 age1 = 12
 age2 = 18
-
-#print "age1 =", age1
-#print "age2 =", age2
-sumage = age1 + age2
-#print " + ", age1 + age2
-#print " - ", age1 - age2
-#print " * ", age1 * age2
-#print " / ", age1 / age1
-#print " % ", age2 % age1 
+print "age1 =", age1
+print "age2 =", age2
+print " + ", age1 + age2
+print " - ", age1 - age2
+print " * ", age1 * age2
+print " / ", age1 / age2
+print " % ", age2 % age1 
 
 message = "today was a beautiful day"
 firstname = "Laura"
 lastname = "Carrasco"
-#print message
-#print "firstname =", firstname
-#print "lastname =", lastname
-#print " + ", firstname + lastname + message 
+print message
+print "firstname =", firstname
+print "lastname =", lastname
+print " + ", firstname + lastname + message 
 
 
 adn = "AACTGTGAACTAACGTCTTAACGACTGGTACGTAC"
